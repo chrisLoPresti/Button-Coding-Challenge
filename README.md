@@ -23,7 +23,7 @@ The project will then be compiled.
 
 ### Running the program
 
-Once compiled, type ./evalexpression <input string> and the program will run
+Once compiled, type ./evalexpression \<input string\> and the program will run
 
 ### Valid input
 
