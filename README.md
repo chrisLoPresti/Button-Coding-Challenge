@@ -25,7 +25,7 @@ The project will then be compiled.
 
 Once compiled, type ./evalexpression \<input string\> and the program will run
 
-* it is important to not that \<input string\> must be in the form "xxxxxxxx", where xxxxx is input
+* it is important to note that \<input string\> must be in the form "xxxxxxxx", where xxxxx is input
 
 Because we use spaces as deliminators ./evalexpression + 3 + 4 5 is considered to be 6 arguements, where ./evalexpression "+ 3 + 4 5" is two arguements 
 
