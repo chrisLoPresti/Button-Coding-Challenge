@@ -31,11 +31,11 @@ The description of the challange states the grammer quite clearly
 
 <Operator> <Expression> <Expression>
 
-where \<Operator\> can become + | - 
+where \<Operator\> can become + | - <br />
 where \<Operator\> \<Expression\> \<Expression\> can become:
-\<Operator\> \<Expression\> \<Operator\> \<Expression\> \<Expression\>
-where \<Expression\> can become \<Digit\>
-where \<Digit\> can become 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
+\<Operator\> \<Expression\> \<Operator\> \<Expression\> \<Expression\><br />
+where: \<Expression\> can become \<Digit\><br />
+where: \<Digit\> can become 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 <br />
 
 Examples of valid input:
 
