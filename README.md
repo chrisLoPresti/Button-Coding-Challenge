@@ -56,7 +56,7 @@ Examples of invalid input
 "9"<br />
 " 9 + 7 "<br />
 "+97"<br />
-"+ 9 7 + 4 5"<br /> This is invalid because \<Operator\> \<Expression\> \<Expression\> has no right hande derivation that results in:<br />
+"+ 9 7 + 4 5"<br /> The above example is invalid even though it appears to be valid. It is invalid because \<Operator\> \<Expression\> \<Expression\> has no right hande derivation that results in:
 
 \<Operator\> \<Expression\> \<Expression\> \<Operator\> \<Expression\> \<Expression\>
 
