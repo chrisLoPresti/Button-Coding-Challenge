@@ -2,6 +2,8 @@
 
 This code is written in response to Button's internship coding challenge 
 
+The code in this assignment was written in the C programming language
+
 ## Getting Started
 
 To get started, simply clone the repo and you will get a folder in your directory for the challenge. 
