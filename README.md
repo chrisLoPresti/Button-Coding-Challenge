@@ -41,17 +41,17 @@ Examples of valid input:
 
 *Note the challange description clearly states the input should be space deliminated as follows*
 
-"+ 3 - 4 5"
-"+ 4 5"
-"- 5 - 6 - 7 - 7 - 8 9"
+"+ 3 - 4 5"<br />
+"+ 4 5"<br />
+"- 5 - 6 - 7 - 7 - 8 9"<br />
 
 Examples of invalid input
 
-""
-" "
-"9"
-" 9 + 7 "
-"+97"
+""<br />
+" "<br />
+"9"<br />
+" 9 + 7 "<br />
+"+97"<br />
 
 ## Authors
 
