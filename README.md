@@ -8,7 +8,7 @@ The code in this assignment was written in the C programming language
 
 To get started, simply clone the repo and you will get a folder in your directory for the challenge. 
 To clone the repo, press the clone button. A link will be presented. Copy the link. 
-cd into the directory of your choosing an type git glone, assuming you have git, and you should be all set.
+cd into the directory of your choosing and type git glone, assuming you have git, and you should be all set.
 If you dont have git , no problem, just download a zip!
 
 ### Prerequisites
