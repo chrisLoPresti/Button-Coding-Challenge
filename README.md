@@ -27,7 +27,7 @@ Once compiled, type ./evalexpression <input string> and the program will run
 
 ### Valid input
 
-The description of the challange states the grammer quite clearly
+The description of the challenge states the grammer quite clearly
 
 <Operator> <Expression> <Expression>
 
@@ -39,7 +39,7 @@ where: \<Digit\> can become 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 <br />
 
 Examples of valid input:
 
-*Note the challange description clearly states the input should be space deliminated as follows*
+*Note the challenge description clearly states the input should be space deliminated as follows*
 
 "+ 3 - 4 5"<br />
 "+ 4 5"<br />
